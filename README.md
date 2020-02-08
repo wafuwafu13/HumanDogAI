@@ -3,9 +3,18 @@
 ## :house:  Development environment
 
 - TensorFlow
+- Beautiful Soup
 - Flask
 - Three.js
+
 - VSCode
+
+## :triangular_ruler:  Specification
+
+1.  Beautiful Soup でWebサイトをスクレイピングし、有村架純、白石麻衣、犬の画像を約200枚入手。  
+2.  200枚から使えない画像を排除して、それぞれ150枚を選ぶ。  
+3.  モデルを定義し、教師あり学習、トレーニング、テスト、評価を行う。  
+4.  Flask/Three.jsによりWebアプリケーション化する。
 
 ## :eyes:  Author
 
