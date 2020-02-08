@@ -4,6 +4,7 @@
 
 - TensorFlow
 - Flask
+- Three.js
 - VSCode
 
 ## :eyes:  Author
